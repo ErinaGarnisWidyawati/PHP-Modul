@@ -9,3 +9,5 @@
 ![alt text](https://github.com/ErinaGarnisWidyawati/PHP-Modul-1/blob/main/Screenshoot/latihan4.PNG)
 # Latihan 5
 ![alt text](https://github.com/ErinaGarnisWidyawati/PHP-Modul-1/blob/main/Screenshoot/latihan5.PNG)
+# Nilai Variabel
+![alt text](https://github.com/ErinaGarnisWidyawati/PHP-Modul-1/blob/main/Screenshoot/Nilai%20Variabel.PNG)
