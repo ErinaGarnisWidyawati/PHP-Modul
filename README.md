@@ -47,3 +47,13 @@
 ![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%205-m3.PNG)
 # Latihan 6
 ![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%206-m3.PNG)
+
+# PHP Modul 4
+# do-while
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%204/Screenshot/do-while.PNG)
+# for
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%204/Screenshot/for.PNG)
+# foreach
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%204/Screenshot/foreach.PNG)
+# while
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%204/Screenshot/while.PNG)
