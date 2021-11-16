@@ -34,3 +34,16 @@
 # Latihan 10
 ![alt text](https://github.com/ErinaGarnisWidyawati/PHP-Modul-1-dan-2/blob/main/Screenshoot%20M2/latihan%2010.2.PNG)
 
+# PHP Modul 3
+# Latihan 1
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%201-m3.PNG)
+# Latihan 2
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%202-m3.PNG)
+# Latihan 3
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%203-m3.PNG)
+# Latihan 4
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%204-m3.PNG)
+# Latihan 5
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%205-m3.PNG)
+# Latihan 6
+![alt](https://github.com/ErinaGarnisWidyawati/PHP-Modul/blob/main/Latihan%20PHP%20Modul%203/Screenshoot/latihan%206-m3.PNG)
